@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distanceAndSpeedinTime", "distanceAndSpeedinTime\distanceAndSpeedinTime.csproj", "{2BD87A7D-A8D1-4110-945D-3225590DFC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD87A7D-A8D1-4110-945D-3225590DFC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD87A7D-A8D1-4110-945D-3225590DFC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD87A7D-A8D1-4110-945D-3225590DFC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD87A7D-A8D1-4110-945D-3225590DFC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
